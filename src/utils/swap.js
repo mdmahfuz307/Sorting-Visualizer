@@ -1,0 +1,6 @@
+// Utility function for swapping array elements
+export const swap = (arr, i, j) => {
+  const temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
+};
