@@ -170,9 +170,9 @@ Have an idea? Open an issue with:
 
 **Md Mahfuz Rahman Nirob**
 
-- 📧 Email: your.njnirob2019@gmail.com
-- 🐙 GitHub: [@mdmahfuz307](https://github.com/mdmahfuz307)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/mdmahfuz307/)
+- 📧 Email: njnirob2019@gmail.com
+- 🐙 GitHub: [mdmahfuz307](https://github.com/mdmahfuz307)
+- 💼 LinkedIn: [mdmahfuz307](https://linkedin.com/in/mdmahfuz307/)
 
 ## 📄 License
 
