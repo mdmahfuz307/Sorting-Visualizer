@@ -199,7 +199,7 @@ function App() {
               </svg>
             </a>
             <a
-              href="mailto:your.njnirob2019@gmail.com"
+              href="mailto:njnirob2019@gmail.com"
               className="bg-slate-800/50 hover:bg-purple-600/70 backdrop-blur-sm text-purple-300 hover:text-white p-4 rounded-full border border-purple-500/30 hover:border-purple-400 transition-all duration-300 hover:scale-110 shadow-lg shadow-purple-500/20"
             >
               <svg
