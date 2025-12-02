@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 
 const Bars = ({ blocks, compare, sorted, swap }) => {
   const [width, setWidth] = useState(

@@ -1,4 +1,8 @@
-import { swap } from "../utils/swap";
+const swap = (arr, i, j) => {
+  const temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
+};
 
 const bubbleSort = (blocks) => {
   const dupBlocks = blocks.slice();
@@ -15,6 +19,7 @@ const bubbleSort = (blocks) => {
     }
     order.push([null, null, null, j]);
   }
+
   return order;
 };
 

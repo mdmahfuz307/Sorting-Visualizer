@@ -1,4 +1,8 @@
-import { swap } from "../utils/swap";
+const swap = (arr, i, j) => {
+  const temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
+};
 
 const selectionSort = (blocks) => {
   const dupBlocks = blocks.slice();
@@ -15,6 +19,7 @@ const selectionSort = (blocks) => {
     }
     order.push([null, null, null, i]);
   }
+
   return order;
 };
 

@@ -1,8 +1,17 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        slate: {
+          950: "#0f172a",
+        },
+        purple: {
+          950: "#3b0764",
+        },
+      },
+    },
   },
   plugins: [],
 };
